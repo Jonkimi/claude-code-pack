@@ -1,4 +1,4 @@
-# claude-code-src
+# claude-code-pack
 
 ```bash
 npm pack @anthropic-ai/claude-code@2.1.88
